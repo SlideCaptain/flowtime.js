@@ -2,7 +2,7 @@
   "name": "Flowtime.js",
   "version": "1.0.0",
   "description": "Flowtime.js is a framework for easily building HTML presentations or websites.",
-  "main": "js/flowtime.js",
+  "main": ["js/brav1toolbox.js", "js/flowtime.js"],
   "keywords": ["presentation", "html5", "css3"],
   "homepage": "https://github.com/marcolago/flowtime.js",
   "bugs": "https://github.com/marcolago/flowtime.js/issues",
