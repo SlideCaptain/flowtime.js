@@ -927,7 +927,7 @@ var Flowtime = (function ()
     {
       if (p == 0 && sp == 0)
       {
-        return 0;
+        return 1;
       }
       var c = 0;
       for (var i = 0; i < p; i++)
